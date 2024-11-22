@@ -1,0 +1,4 @@
+baseURL = 'https://www.progressiverealitytechnology.com/'
+languageCode = 'en-us'
+title = 'Progressive Reality Technology'
+theme = 'tella'
