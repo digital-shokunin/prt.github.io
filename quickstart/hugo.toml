@@ -2,17 +2,18 @@ baseURL = 'https://www.progressiverealitytechnology.com/'
 languageCode = 'en-us'
 title = 'Progressive Reality Technology'
 theme = 'tella'
+enableRobotsTXT = true
 
 [params]
 
   showBlog = true
-  mainSections = ['blog']
+  mainSections = ['blog','slides']
 
   googleFonts = true
 
   [params.logo]
     main = "img/logo/logo.svg"
-    alt = "Tella Logo"
+    alt = "Logo"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/

@@ -4,7 +4,7 @@ title: 'Contact PRT'
 
 To contact us, please fill out the form below.
 
-{{
+
   <form id="contact-form" method="post">
   <h2>Contact Us</h2>
   <label for="name">Name:</label>
@@ -17,4 +17,3 @@ To contact us, please fill out the form below.
   <textarea id="message" name="message" required></textarea>
   <button type="submit">Submit</button>
 </form>
-}}
