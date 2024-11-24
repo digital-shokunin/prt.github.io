@@ -40,9 +40,9 @@ enableRobotsTXT = true
 [menu]
 
   [[menu.main]]
-    identifier = "products"
-    name = "Products"
-    url = "/products/"
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
     weight = 1
 
   [[menu.main]]
