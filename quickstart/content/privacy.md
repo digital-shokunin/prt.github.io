@@ -2,8 +2,6 @@
 title: 'Privacy Policy'
 ---
 
-**Facebook Application Privacy Policy**
-=====================================
 
 ### Introduction
 ---------------
