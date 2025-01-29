@@ -39,7 +39,7 @@ By partnering with us, you'll gain access to a wealth of consumer data that can 
 
 Ready to unlock the power of consumer data for your business? Contact us today to learn more about our services and how they can help you achieve your goals.
 
-** Take the First Step Towards Data-Driven Success **
+**Take the First Step Towards Data-Driven Success**
 
 Don't let your competitors get ahead of you – partner with us to gain a deeper understanding of your target audience and drive business growth. Fill out the form below or give us a call to schedule a consultation.
 
