@@ -1,7 +1,7 @@
 +++
 author = "Megan Haris"
 title = "Unlocking the Power of Consumer Data: How Our Services Can Transform Your Business"
-date = "2024-1-22"
+date = "2025-01-22"
 description = "Unlocking the Power of Consumer Data: How Our Services Can Transform Your Business"
 tags = [
     "data",
