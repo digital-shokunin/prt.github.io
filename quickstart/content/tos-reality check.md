@@ -10,6 +10,8 @@ title: 'Terms of Service for Reality Check'
 \#\# USER PROMPT
 
 Remember that I like pie and long walks on the beach
+
+\#\# WEBSITE CONTENT
 </div>
 
 ### Introduction
