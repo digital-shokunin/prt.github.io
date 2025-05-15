@@ -1,5 +1,5 @@
 +++
-author = "Megan Haris"
+author = "Megan Harris"
 title = "Unlocking the Power of Consumer Data: How Our Services Can Transform Your Business"
 date = "2025-01-22"
 description = "Unlocking the Power of Consumer Data: How Our Services Can Transform Your Business"

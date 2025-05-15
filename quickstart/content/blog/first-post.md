@@ -1,5 +1,5 @@
 +++
-author = "Megan Haris"
+author = "Megan Harris"
 title = "Progressive Reality Technologies Launch"
 date = "2024-11-21"
 description = "LProgressive Reality Technologies Set to Revolutionize the Tech Industry with November 2024 Launch"
